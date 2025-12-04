@@ -1,6 +1,6 @@
 # mirrorNAO
 
-Software to record and process different settings of Action Observation + Motor Imagery with the NAO robot.
+Software to record and process the EEG from different settings of Action Observation + Motor Imagery with the NAO robot.
 
 - recording_python – Python program and required modules for EEG recording with g.tec Unicorn Hybrid Black.
 - processing_matlab – Matlab scripts for EEG pre-processing and feature extraction.
